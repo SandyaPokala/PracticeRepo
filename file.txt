@@ -1,0 +1,201 @@
+    1  cd Documents/
+    2  ls
+    3  ls
+    4  cd Documents/
+    5  ls
+    6  cd gitrepo/
+    7  ls
+    8  git branch
+    9  ls -la
+   10  lw
+   11  ls
+   12  cd ..
+   13  cd gitDemoProject
+   14  ls
+   15  ls
+   16  git init
+   17  ls
+   18  git add *
+   19  git commit -m "firstcommit"  
+   20  ls
+   21  git status
+   22  ls
+   23  ls
+   24  history
+   25  cd Do
+   26  cd Documents/
+   27  ls
+   28  cd GitDemoProject/
+   29  ls
+   30  rm -rf .git
+   31  ls
+   32  cd ..
+   33  cd SprintGitCode/
+   34  ls
+   35  ls
+   36  ls
+   37  cd digitalgoldwallet/
+   38  ls
+   39  cd ..
+   40  git init
+   41  git add *
+   42  git commit -m "updated project"
+   43  git remote add origin https://github.com/SandyaPokala/DigiGoldWallet.git
+   44  git push -u origin main
+   45  git push -u origin master
+   46  ls
+   47  git checkout -b Sandya
+   48  ls
+   49  ls
+   50  git add *
+   51  git commit -m "u1" 
+   52  git push origin Sandya
+   53  git add *
+   54  git commit -m "u2" 
+   55  git push origin Sandya
+   56  git add *
+   57  git commit -m "u3" 
+   58  ls
+   59  git push origin Sandya
+   60  history
+   61  cd Desktop/
+   62  ls
+   63  cd DigiGold
+   64  ls
+   65   ls
+   66  cd ..
+   67  cd DigiGoldWallet/
+   68  ls
+   69  cd DigitalGoldWallet/
+   70  git branches
+   71  git branch
+   72  cd ..
+   73  cd ..
+   74  cd ..
+   75  cd Documents/
+   76  ls
+   77  cd GitDemoProject/
+   78  ls
+   79  cd ..
+   80  cd SprintGitCode/
+   81  ls
+   82  cd digitalgoldwallet/
+   83  ls -la
+   84  cd ..
+   85  cd ..
+   86  ls
+   87  mkdir BackupGit
+   88  cd BackupGit/
+   89  ls
+   90  git clone https://github.com/SandyaPokala/DigiGoldWallet.git
+   91  ls
+   92  cd DigiGoldWallet/
+   93  ls
+   94  git branch
+   95  pwd
+   96  cd Documents/
+   97  ls
+   98  pwd
+   99  ls
+  100  mkdir GitPract
+  101  cd GitPract/
+  102  ls
+  103  ls
+  104  git init
+  105  cat sandya.txt
+  106  vi sandya.txt
+  107  ls
+  108  git status
+  109  git add sandya.txt 
+  110  git status
+  111  git commit -m "my first commit" sandya.txt 
+  112  git log
+  113  vi sandya.txt 
+  114  git status
+  115  git log
+  116  git show
+  117  git add sandya.txt
+  118  git status
+  119  git commit -m "second commit" sandya.txt
+  120  vi sandya.txt
+  121  git add sandya
+  122  git add sandya.txt 
+  123  git commit -m "third commit" sandya.txt
+  124  git log
+  125  git reset eb142fc280bd0
+  126  git log
+  127  git stasjh
+  128  git stash
+  129  git log
+  130  git stash list
+  131  vi sandya.txt 
+  132  git add sandya.txt
+  133  git stash
+  134  cat sandya.txt
+  135  git restore sandya.txt
+  136  cat sandya.txt
+  137  git reset sandya.txt
+  138  cat sandya.txt
+  139  git stash pop
+  140  cat sandya.txt
+  141  git stash pop
+  142  cat sandya.txt
+  143  git log
+  144  git restore sandya.txt
+  145  git log
+  146  cat sandya.txt
+  147  git stash pop
+  148  cat sandya.txt
+  149  git commit -m "3rd com" sandya.txt
+  150  git commit -m "3rd com" sandya.txt
+  151  git add sandya.txt
+  152  git commit -m "3rd com" sandya.txt
+  153  cat sandya.txt 
+  154  git stash pop
+  155  cat sandya.txt 
+  156  git commit --amend -resebt-author
+  157  git stash clear
+  158  git commit --amend -resebt-author
+  159  cat sandya.txt 
+  160  git restore sandya.txt
+  161  cat sandya.txt 
+  162  git reset sandya.txt
+  163  cat sandya.txt 
+  164  ls
+  165  git log
+  166  git stash 8b8c63
+  167  history
+  168  git reset 8b8c63
+  169  cat sandya.txt 
+  170  git restore sandya.txt 
+  171  cat sandya.txt 
+  172  git stash 8b8c63
+  173  git log
+  174  vi sandya.txt
+  175  git add *
+  176  git commit -m "fourth commit" sandya.txt
+  177  l
+  178  git log
+  179  git reset 8b8c63
+  180  cat sandya.txt
+  181  git log
+  182  git stash
+  183  cat sandya.txt
+  184  git stash pop
+  185  cat sandya.txt
+  186  git log
+  187  git add .
+  188  git commit -m "fourth commmm"
+  189  git log
+  190  git show
+  191  ls
+  192  cd Documents/
+  193  cd GitPract/
+  194  ls
+  195  mongosh "mongodb+srv://cluster0.ntjlmwt.mongodb.net/" --apiVersion 1 --username kalki
+  196  cd Documents/
+  197  cd GitPract/
+  198  ls
+  199  history
+  200  git history >> file.txt
+  201  history >> file.txt
